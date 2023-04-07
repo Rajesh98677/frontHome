@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "https://backend-30ip.onrender.com" });
+const API = axios.create({ baseURL: "https://backend-2ymf.onrender.com" });
 
 // const url ='http://localhost:5000/rentals';
 
